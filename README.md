@@ -16,7 +16,7 @@
 
 WebDev News is a mini blog of technology news developed with Next.js and TypeScript.
 
-> You can check the application [demo](https://webdevnews.vercel.app/) here!
+> You can check the application [demo](https://webdev-next.netlify.app/) here!
 
 ## 🔧 Technologies
 
