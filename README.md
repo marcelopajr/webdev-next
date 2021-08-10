@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img alt="WebDev News" src=".github/webdev.png" width="100%">
+  <img alt="WebDev News" src=".github/webdev.PNG" width="100%">
 </p>
 
 ## 💻 Project
